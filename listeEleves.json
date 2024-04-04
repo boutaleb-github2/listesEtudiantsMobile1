@@ -5,8 +5,18 @@
     "session": "1",
     "cours": []
   },
-  { "id_etudiant": "01", "nom": "Jean1", "session": "1", "cours": ["Prog1"] },
-  { "id_etudiant": "02", "nom": "Jean2", "session": "1", "cours": ["Prog1"] },
+  {
+    "id_etudiant": "01",
+    "nom": "Jean1",
+    "session": "1",
+    "cours": ["Prog1", "Anglais"]
+  },
+  {
+    "id_etudiant": "02",
+    "nom": "Jean2",
+    "session": "1",
+    "cours": ["Prog1", "philosophie"]
+  },
   { "id_etudiant": "03", "nom": "Jean3", "session": "1", "cours": ["Prog1"] },
   { "id_etudiant": "04", "nom": "Jean4", "session": "1", "cours": ["Prog1"] },
   { "id_etudiant": "05", "nom": "Jean5", "session": "1", "cours": ["Prog1"] },
