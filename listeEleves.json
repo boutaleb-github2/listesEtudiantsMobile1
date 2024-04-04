@@ -2,24 +2,24 @@
   {
     "id_etudiant": "00",
     "nom": "Aucun étudiant sélectionné",
-    "session": "1",
+    "session": "0",
     "cours": []
   },
   {
     "id_etudiant": "01",
     "nom": "Jean1",
     "session": "1",
-    "cours": ["Prog1", "Anglais"]
+    "cours": ["Prog1"]
   },
   {
     "id_etudiant": "02",
-    "nom": "Jean2",
-    "session": "1",
-    "cours": ["Prog1", "philosophie"]
+    "nom": "Alice",
+    "session": "2",
+    "cours": ["Prog2", "Anglais 101", "156", "BD"]
   },
-  { "id_etudiant": "03", "nom": "Jean3", "session": "1", "cours": ["Prog1"] },
-  { "id_etudiant": "04", "nom": "Jean4", "session": "1", "cours": ["Prog1"] },
-  { "id_etudiant": "05", "nom": "Jean5", "session": "1", "cours": ["Prog1"] },
-  { "id_etudiant": "06", "nom": "Jean6", "session": "1", "cours": ["Prog1"] },
-  { "id_etudiant": "07", "nom": "Jean7", "session": "1", "cours": ["Prog1"] }
+  { "id_etudiant": "03", "nom": "Jean3", "session": "3", "cours": ["Prog1"] },
+  { "id_etudiant": "04", "nom": "Jean4", "session": "4", "cours": ["Prog1"] },
+  { "id_etudiant": "05", "nom": "Jean5", "session": "5", "cours": ["Prog1"] },
+  { "id_etudiant": "06", "nom": "Jean6", "session": "6", "cours": ["Prog1"] },
+  { "id_etudiant": "07", "nom": "Jean7", "session": "7", "cours": ["Prog1"] }
 ]
